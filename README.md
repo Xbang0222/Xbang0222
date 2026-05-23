@@ -6,8 +6,9 @@
 
 - 🎓 学历：废物大学生，混子想靠AI开发。
 - ⚙️ 贡献：
-  - [QuantumNous/new-api](https://github.com/QuantumNous/new-api) Contributor
+  - [basketikun/chatgpt2api](https://github.com/basketikun/chatgpt2api) Contributor
   - [router-for-me/CLIProxyAPI](https://github.com/router-for-me/CLIProxyAPI) Contributor
+  - [QuantumNous/new-api](https://github.com/QuantumNous/new-api) Contributor
 
 这些不是我会的，是 AI 帮我用过的 😇
 
